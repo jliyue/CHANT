@@ -2,7 +2,7 @@
 DG1,SID002,前進歌,Qiánjìn Gē,聶耳,Niè Ěr,田漢,Tián Hàn,C,2/4,
 DG2,SID005,大路歌,Dàlù Gē,聶耳,Niè Ěr,孫瑜,Sūn Yú,F,2/4,
 DG3,SID007,打長江,Dǎ Chángjiāng,聶耳,Niè Ěr,田漢,Tián Hàn,D,2/4 → 4/4->2/4,
-DG4,SID011,賣報歌,Màibào Gē,聶耳,Niè Ěr,,,F,2/4,
+DG4,SID011,賣報歌,Màibào Gē,聶耳,Niè Ěr,安娥,Ān É,F,2/4,Lyricist attribution: https://www.cflac.org.cn/zt/kangzhan/2005-08/19/content_4928031.htm
 DG5,SID013,一二八紀念歌,Yī Èr Bā Jìniàn Gē,呂驥,Lǚ Jì,高雄,Gāo Xióng,G,2/4,
 DG6,SID014,三一八紀念歌,Sān Yī Bā Jìniàn Gē,沙梅,Shā Méi,施誼,Shī Yì,Bb,2/4,
 DG7,SID017,五卅第十一週年紀念歌,Wǔ Sà Dì Shíyī Zhōunián Jìniàn Gē,星海,Xīnghǎi,施誼,Shī Yì,A,2/4,
@@ -23,9 +23,9 @@ DG21,SID010,打磚歌,Dǎzhuān Gē,聂耳,Niè Ěr,田漢,Tián Hàn,F,2/4,
 DG22,SID015,四十年的忿怒（四月十七）,Sìshí Nián de Fènnù (Sì Yuè Shíqī),沙梅,Shā Méi,施誼,Shī Yì,C,2/4,
 DG23,SID018,聶耳輓歌（七月十七）,Niè Ěr Wǎngē (Qī Yuè Shíqī),呂驥,Lǚ Jì,孫師毅,Sūn Shīyì,D,4/4,B minor. Jianpu degree 1 is D and degree 6 (B) is the tonic.
 DG24,SID024,魯迅先生輓歌（二）,Lǔ Xùn Xiānsheng Wǎngē (Èr),星海,Xīnghǎi,任鈞,Rén Jūn,A,3/4,
-DG25,SID029,我們要做一個新的英雄,Wǒmen Yào Zuò Yī Ge Xīn de Yīngxióng,吕骥,Lǚ Jì,,Miáo Píng,G,2/4,
-DG26,SID031,示威歌,Shìwēi Gē,呂驥,Lǚ Jì,,Yì Gēng,Eb,2/4,
-DG27,SID032,活路歌,Huólù Gē,吕骥,Lǚ Jì,,Shì Yí,E,2/4,
+DG25,SID029,我們要做一個新的英雄,Wǒmen Yào Zuò Yī Ge Xīn de Yīngxióng,吕骥,Lǚ Jì,苗坪,Miáo Píng,G,2/4,Lyricist credit as printed in the source score.
+DG26,SID031,示威歌,Shìwēi Gē,呂驥,Lǚ Jì,亦庚,Yì Gēng,Eb,2/4,The source score credits 亦庚. The biography credits 張庚 (Zhāng Gēng): https://www.chinawriter.com.cn/n1/2023/1204/c404005-40131187.html
+DG27,SID032,活路歌,Huólù Gē,吕骥,Lǚ Jì,適夷,Shì Yí,E,2/4,The score appears in the lower half of the same scan page as SID031. The printed credit is also corroborated by https://www.chinawriter.com.cn/n1/2023/1204/c404005-40131187.html
 DG28,SID034,射擊手之歌,Shèjīshǒu zhī Gē,呂驥,Lǚ Jì,鋼鳴,Gāng Míng,Ab,2/4,
 DG29,SID036,救國軍歌,Jiùguó Jūngē,星海,Xīnghǎi,塞克,Sàikè,C,2/4,
-DG30,SID040,我們不怕流血,Wǒmen Bù Pà Liúxuè,冼星海,Xiǎn Xīnghǎi,,,G,2/4,
+DG30,SID040,我們不怕流血,Wǒmen Bù Pà Liúxuè,冼星海,Xiǎn Xīnghǎi,安娥,Ān É,G,2/4,Lyricist attribution: https://www.cflac.org.cn/zt/kangzhan/2005-08/19/content_4928031.htm
