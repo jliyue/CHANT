@@ -6,7 +6,8 @@
   </work>
   <movement-title>新編九一八小調</movement-title>
   <identification>
-    <creator type="composer">Music21</creator>
+    <creator type="composer">Lǚ Jì</creator>
+    <creator type="transcriber">Joyce Li Yue</creator>
     <encoding>
       <encoding-date>2026-11-05</encoding-date>
       <software>music21 v.10.5.0</software>
@@ -21,6 +22,18 @@
       <tenths>40</tenths>
     </scaling>
   </defaults>
+  <credit page="1">
+    <credit-type>title</credit-type>
+    <credit-words default-x="615" default-y="1510" justify="center" valign="top" font-size="22">新編九一八小調</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-type>composer</credit-type>
+    <credit-words default-x="1090" default-y="1440" justify="right" valign="top" font-size="12">Music by Lǚ Jì</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-type>transcriber</credit-type>
+    <credit-words default-x="1090" default-y="1405" justify="right" valign="top" font-size="10">Transcribed from Jianpu by Joyce Li Yue</credit-words>
+  </credit>
   <part-list>
     <score-part id="P389dc07224c8d72c1f53dce858f6827d">
       <part-name>新編九一八小調</part-name>

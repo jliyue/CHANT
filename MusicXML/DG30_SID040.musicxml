@@ -6,7 +6,8 @@
   </work>
   <movement-title>我們不怕流血</movement-title>
   <identification>
-    <creator type="composer">Music21</creator>
+    <creator type="composer">Xiǎn Xīnghǎi</creator>
+    <creator type="transcriber">Joyce Li Yue</creator>
     <encoding>
       <encoding-date>2026-11-05</encoding-date>
       <software>music21 v.10.5.0</software>
@@ -21,6 +22,18 @@
       <tenths>40</tenths>
     </scaling>
   </defaults>
+  <credit page="1">
+    <credit-type>title</credit-type>
+    <credit-words default-x="615" default-y="1510" justify="center" valign="top" font-size="22">我們不怕流血</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-type>composer</credit-type>
+    <credit-words default-x="1090" default-y="1440" justify="right" valign="top" font-size="12">Music by Xiǎn Xīnghǎi</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-type>transcriber</credit-type>
+    <credit-words default-x="1090" default-y="1405" justify="right" valign="top" font-size="10">Transcribed from Jianpu by Joyce Li Yue</credit-words>
+  </credit>
   <part-list>
     <score-part id="P8ab0e2c4d56680863faeaee7f3d68fa5">
       <part-name>我們不怕流血</part-name>
