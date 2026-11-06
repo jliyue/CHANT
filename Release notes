@@ -1,0 +1,23 @@
+CHANT dataset files
+
+CSV contains 30 individual song transcriptions, a merged table of 4205 events
+and 19 columns, and the song metadata. MusicXML, MIDI, and Score PDFs
+contain 30 files each. Match files by their shared DG number and SID.
+
+This release omits note-aligned lyrics from the individual CSVs, merged CSV,
+MusicXML, and MIDI. The metadata retains lyricist credits. Each song CSV and the merged CSV
+use the same 19 columns.
+
+The MusicXML and MIDI files are generated from the CSV transcriptions. They
+follow one pass through the recorded event sequence. MIDI uses piano and a
+playback tempo of 120 BPM where the metadata provides no tempo. For DG2_SID005,
+the MIDI uses 50 BPM as a playback interpretation of Largo. MusicXML represents
+the transcription as staff notation. Use the score PDFs for the printed
+jianpu notation, repeats, and original layout.
+
+MIDI phrase markers follow the CSV Phrase End column. The first event and
+each event immediately after an END row receive a start marker. Each end
+marker sits at the onset of the END event and identifies that whole event
+as part of the phrase, including its full duration. A marker can identify
+a note or a rest. Markers follow END where the saved Phrase # disagrees.
+
