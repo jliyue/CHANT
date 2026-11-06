@@ -28,4 +28,17 @@ The symbolic exports derive elapsed time from cumulative durations. Saved onset 
 
 ## Song metadata
 
-`CSV/metadata.csv` uses one row per metadata field per song. `Workbook` identifies the song (for example, `DG1_SID002`), `Field` names the attribute, and `Value` records its value. `Key (editable)` gives the pitch reference for Jianpu degree 1. In DG23, degree 1 is D and degree 6 is B, the tonic of B minor.
+[`CSV/metadata.csv`](CSV/metadata.csv) has one row per song. Join it to the event CSVs using `Corpus Song #` and `Song ID` together.
+
+| Column | Meaning |
+| --- | --- |
+| `Corpus Song #`, `Song ID` | Corpus position and source song identifier |
+| `Song Name`, `Song Name (Pinyin)` | Song title in Chinese characters and pinyin |
+| `Composer`, `Composer (Pinyin)` | Composer credit in Chinese characters and pinyin |
+| `Lyricist`, `Lyricist (Pinyin)` | Lyricist credit in Chinese characters and pinyin |
+| `Key` | Pitch reference for Jianpu degree 1. In DG23, degree 1 is D and degree 6 is B, the tonic of B minor. |
+| `Meter` | Song-level time signature. See `Active Meter` for event-level changes. |
+| `Tempo BPM` | Tempo in beats per minute where recorded in the metadata |
+| `Comment` | Additional information about the song or its encoding |
+
+Blank cells indicate that a value is unavailable in the corresponding field.
