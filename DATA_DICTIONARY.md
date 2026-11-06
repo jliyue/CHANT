@@ -38,7 +38,6 @@ The symbolic exports derive elapsed time from cumulative durations. Saved onset 
 | `Lyricist`, `Lyricist (Pinyin)` | Lyricist credit in Chinese characters and pinyin |
 | `Key` | Pitch reference for Jianpu degree 1. In DG23, degree 1 is D and degree 6 is B, the tonic of B minor. |
 | `Meter` | Song-level time signature. See `Active Meter` for event-level changes. |
-| `Tempo BPM` | Tempo in beats per minute where recorded in the metadata |
 | `Comment` | Additional information about the song or its encoding |
 
 Blank cells indicate that a value is unavailable in the corresponding field.
